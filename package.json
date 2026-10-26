@@ -1,0 +1,17 @@
+{
+  "name": "dut-core-math-utils-dung",
+  "version": "1.0.0",
+  "description": "Thu vien toi uu hoa cac phep toan dai so cho sinh vien ky nghe phan mem",
+  "main": "index.js",
+  "author": "Dung Ngo",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
